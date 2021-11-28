@@ -11,3 +11,4 @@ C:\Users\A\source\repos\LibraryCourseWork\LibraryCourseWork\obj\Debug\LibraryCou
 C:\Users\A\source\repos\LibraryCourseWork\LibraryCourseWork\obj\Debug\LibraryCourseWork.csproj.CoreCompileInputs.cache
 C:\Users\A\source\repos\LibraryCourseWork\LibraryCourseWork\obj\Debug\LibraryCourseWork.exe
 C:\Users\A\source\repos\LibraryCourseWork\LibraryCourseWork\obj\Debug\LibraryCourseWork.pdb
+C:\Users\A\source\repos\LibraryCourseWork\LibraryCourseWork\obj\Debug\LibraryCourseWork.LibrarianForm.resources

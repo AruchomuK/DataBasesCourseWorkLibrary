@@ -81,6 +81,9 @@
     <EmbeddedResource Include="AuthorForm.resx">
       <DependentUpon>AuthorForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="LibrarianForm.resx">
+      <DependentUpon>LibrarianForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>

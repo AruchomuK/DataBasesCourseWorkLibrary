@@ -212,7 +212,7 @@
       // 
       // AuthorAddBookButton
       // 
-      this.AuthorAddBookButton.Location = new System.Drawing.Point(354, 226);
+      this.AuthorAddBookButton.Location = new System.Drawing.Point(365, 226);
       this.AuthorAddBookButton.Name = "AuthorAddBookButton";
       this.AuthorAddBookButton.Size = new System.Drawing.Size(75, 23);
       this.AuthorAddBookButton.TabIndex = 31;
@@ -250,7 +250,7 @@
       // 
       this.AuthorMyBooksLabel.AutoSize = true;
       this.AuthorMyBooksLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-      this.AuthorMyBooksLabel.Location = new System.Drawing.Point(351, 279);
+      this.AuthorMyBooksLabel.Location = new System.Drawing.Point(362, 279);
       this.AuthorMyBooksLabel.Name = "AuthorMyBooksLabel";
       this.AuthorMyBooksLabel.Size = new System.Drawing.Size(89, 18);
       this.AuthorMyBooksLabel.TabIndex = 27;
@@ -287,7 +287,7 @@
       // 
       this.AuthorAddBookLabel.AutoSize = true;
       this.AuthorAddBookLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-      this.AuthorAddBookLabel.Location = new System.Drawing.Point(326, 36);
+      this.AuthorAddBookLabel.Location = new System.Drawing.Point(339, 33);
       this.AuthorAddBookLabel.Name = "AuthorAddBookLabel";
       this.AuthorAddBookLabel.Size = new System.Drawing.Size(132, 18);
       this.AuthorAddBookLabel.TabIndex = 23;

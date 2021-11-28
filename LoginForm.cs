@@ -44,9 +44,9 @@ namespace LibraryCourseWork
       String userEmail = EmailTextBox.Text;
       String userPassword = PasswordTextBox.Text;
 
-      String sqlAuthorization = "SELECT * FROM Users WHERE Email = \'" + userEmail + "\' AND Password = \'" + userPassword +"\'"; 
+      String sqlAuthorize= "SELECT * FROM Users WHERE Email = \'" + userEmail + "\' AND Password = \'" + userPassword +"\'"; 
 
-      OleDbCommand cmdCheckUser = new OleDbCommand(sqlAuthorization, cn);
+      OleDbCommand cmdCheckUser = new OleDbCommand(sqlAuthorize, cn);
 
       OleDbDataReader reader = cmdCheckUser.ExecuteReader();
 
@@ -72,7 +72,7 @@ namespace LibraryCourseWork
               break;
 
             case "Сотрудник":
-              LibrarianForm librarianForm = new LibrarianForm();
+              LibrarianForm librarianForm = new LibrarianForm(userName, userSurname, userEmail);
               librarianForm.Show();
 
               break;
